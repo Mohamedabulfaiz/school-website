@@ -71,13 +71,10 @@ header a:hover{
     text-align: center;
     margin:10px 100px;
     background-color: rgb(255, 255, 255);
-    margin: 10px 150px;
+    margin: 10px 110px;
 }
 .section2-flex img
 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 0 70px;
     margin-bottom: 10px;
 
@@ -87,7 +84,7 @@ header a:hover{
     margin-left: 20px;
     background-color: #f0390f;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
     padding: 60px 50px;
    
@@ -96,7 +93,7 @@ header a:hover{
     margin-left: 20px;
     background-color: #3e0bce;
     border: none;
-    border-radius: 7px;
+    border-radius: 10px;
     color: white;
     padding: 60px 50px;
 
