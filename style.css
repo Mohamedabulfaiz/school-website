@@ -84,7 +84,7 @@ header a:hover{
 }
 #box{
     margin-left: 20px;
-    background-color: red;
+    background-color: #f0390f;
     border: none;
     border-radius: 5px;
     color: white;
@@ -93,7 +93,7 @@ header a:hover{
 }
 #box2{
     margin-left: 20px;
-    background-color: rgb(63,11,207);
+    background-color: #3e0bce;
     border: none;
     border-radius: 7px;
     color: white;
