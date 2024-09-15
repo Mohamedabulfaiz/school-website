@@ -69,14 +69,12 @@ header a:hover{
     display: flex;
     padding: 10px;
     text-align: center;
-    margin:10px 90px;
+    margin:10px 110px;
     background-color: rgb(255, 255, 255);
-    margin: 10px 110px;
 }
 .section2-flex img
 {   justify-content: center;
     padding: 0 90px;
-    margin-bottom: 10px;
 
 
 }
