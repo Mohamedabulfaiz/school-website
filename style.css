@@ -80,9 +80,9 @@ header a:hover{
 
 
 }
-#box{
-    margin-left: 20px;
-    background-color: #f0390f;
+#box1{
+    margin-left: 10px;
+    background-color: #f5380d;
     border: none;
     border-radius: 10px;
     color: white;
@@ -98,6 +98,15 @@ header a:hover{
     padding: 60px 50px;
 
 }
+#box3{
+    margin-left: 20px;
+    background-color: #f5380d;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 60px 50px;
+ }
+
 .section2 h3{
     position: absolute;
     bottom: 0;
