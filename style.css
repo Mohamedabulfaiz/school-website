@@ -1,9 +1,13 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
 header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     background-color: #ffffff;
-    padding: 10px; /* Stacks the logo and navigation vertically */
+    padding: 15px;
 }
 
 header img{
