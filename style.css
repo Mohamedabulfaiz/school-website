@@ -73,6 +73,7 @@ header a:hover{
     
 }
 #box{
+    margin-top: 50px;
     padding: 60px 30px;
     border-radius: 10px;
     width:350px;
@@ -82,6 +83,7 @@ header a:hover{
 
  }
  #box2{
+    margin-top: 50px;
     padding: 60px 30px;
     border-radius: 10px;
     width:350px;
@@ -91,6 +93,11 @@ header a:hover{
 }
 .section2-flex img{
     padding-left: 100px;
+}
+.read{
+    padding-right:150px;
+    padding-top: 130px;
+    color: black;
 }
 .section3{
     margin-top: 40px;
